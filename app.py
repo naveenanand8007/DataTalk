@@ -1,4 +1,4 @@
-# DataTalk Streamlit App
+# DataTalk Streamlit 
 # Rebuilt by integrating the backend logic from Finalproject(1).ipynb
 # with the Streamlit interface from app(1).py.
 #
